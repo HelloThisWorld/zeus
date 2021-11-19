@@ -1,0 +1,31 @@
+Package: abbyyR
+Version: 0.5.5
+Depends: R (>= 3.2.0)
+Imports: httr, XML, curl, readr, plyr, progress
+Suggests: testthat, rmarkdown, knitr (>= 1.11), lintr
+License: MIT + file LICENSE
+MD5sum: e048a3bca6ea32126e6c367415c0bfaf
+NeedsCompilation: no
+
+Packagee: abc
+Version: 2.1
+Depends: R (>= 2.10), abc.data, nnet, quantreg, MASS, locfit
+License: GPL (>= 3)
+MD5sum: c9fffe4334c178917f762735aba59653
+NeedsCompilation: no
+
+Package: abc.data
+Version: 1.0
+Depends: R (>= 2.10)
+License: GPL (>= 3)
+MD5sum: 799079dbbdd0cfc9d9c61c3e35241806
+NeedsCompilation: no
+
+Package: ABC.RAP
+Versionn: 0.9.0
+Depends: R (>= 3.1.0)
+Imports: graphics, stats, utils
+Suggests: knitr, rmarkdown
+License: GPL-3
+MD5sum: 38c65a7251d28ef2462ee430ded95700
+NeedsCompilation: no

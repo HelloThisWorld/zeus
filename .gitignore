@@ -1,0 +1,15 @@
+.venv/
+.idea/
+.vscode/
+thunder/__pycache__/__init__.cpython-37.pyc
+__pycache__/app.cpython-37.pyc
+thunder/controller/__pycache__/RequestHandlers.cpython-37.pyc
+thunder/controller/__pycache__/__init__.cpython-37.pyc
+thunder/util/__pycache__/__init__.cpython-37.pyc
+thunder/util/__pycache__/DBConnectionUtil.cpython-37.pyc
+thunder/util/__pycache__/HttpClientUtil.cpython-37.pyc
+thunder/servcie/__pycache__/PackageContentService.cpython-37.pyc
+thunder/model/__pycache__/__init__.cpython-37.pyc
+thunder/model/__pycache__/Package.cpython-37.pyc
+thunder/servcie/__pycache__/__init__.cpython-37.pyc
+build/
